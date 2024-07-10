@@ -6,7 +6,7 @@
 
 <video width="320" height="240" controls loop=" ">
 <source src="https://github.com/liam-clowes/gs_ft/raw/main/assets/ESP_Perf_GS_FB_Video_withsub_music_CTA_Testimonials_9x16_Visible%20Results__2.mp4">
-</video> Confidence (Spanish)
+</video> Visible Results (Spanish)
 
 <video width="320" height="240" controls loop=" ">
 <source src="https://github.com/liam-clowes/gs_ft/raw/main/assets/ESP_Perf_GS_FB_Video_withsub_music_EndFrame_Testimonials_9x16_Matched_1.mp4">
